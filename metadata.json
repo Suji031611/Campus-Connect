@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "Comprehensive student life platform with Dashboard, Study Hub, Events, Community, Timetable, Assignments, and Campus Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
